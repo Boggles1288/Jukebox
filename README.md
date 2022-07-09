@@ -22,4 +22,5 @@ Jukebox is an advanced discord music bot, supports Spotify, Soundcloud, YouTube 
 [Node JS](https://nodejs.org/en/) (v16) for environment
 
 
+
 Realized with ❤️ by [Nubtuc](https://github.com/TheodoreRomero).
