@@ -2,13 +2,15 @@
 Jukebox is an advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!
 
 
-### Why Jukebox?
+
+### ⚡ Why Jukebox?
 
 > Basic configuration
 > 
 > Volume adjustment
 > 
 > Easy to use
+
 
 
 ### 📑 Packages that make this bot possible :)
